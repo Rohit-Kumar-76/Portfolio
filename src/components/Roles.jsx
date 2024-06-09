@@ -9,7 +9,7 @@ const roles = [
 
 const Roles = () => {
     return (
-        <section id="roles" className='p-8 bg-white'>
+        <section id="roles" className='p-8 bg-white pt-24'>
             <div className='container mx-auto text-center'>
                 <h2 className='text-2xl font-bold mb-4'>Roles I Like to Work</h2>
                 <div className='flex flex-wrap justify-center'>

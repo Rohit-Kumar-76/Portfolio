@@ -8,7 +8,7 @@ const projects = [
 
 const Projects = () => {
     return (
-        <section id="projects" className='p-8 bg-gray-100'>
+        <section id="projects" className='p-8 bg-gray-100 pt-24'>
             <div className='container mx-auto text-center'>
                 <h2 className='text-2xl font-bold mb-4'>Projects</h2>
                 <div className='grid gap-4 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>

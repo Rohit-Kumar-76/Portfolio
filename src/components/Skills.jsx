@@ -12,7 +12,7 @@ const skills = [
 
 const Skills = () => {
     return (
-        <section id="skills" className='p-8 bg-white'>
+        <section id="skills" className='p-8 bg-white pt-24'>
             <div className='container mx-auto text-center'>
                 <h2 className='text-2xl font-bold mb-4'>Skills</h2>
                 <div className='grid gap-4 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>

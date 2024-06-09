@@ -2,8 +2,8 @@ import React from 'react';
 
 const roles = [
     'Frontend Developer',
-    'Backend Developer',
-    'Full Stack Developer',
+    'Python Developer',
+    'Web Developer',
 
 ];
 

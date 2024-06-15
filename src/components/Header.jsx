@@ -26,7 +26,7 @@ const Header = () => {
                 </button>
             </div>
             {isOpen && (
-                <nav className='md:hidden bg-gray-800'>
+                <nav className='md:hidden bg-gray-800 h-full'>
                     <a href="#home" className='block px-4 py-2 hover:bg-gray-700'>Home</a>
                     <a href="#introduction" className='block px-4 py-2 hover:bg-gray-700'>Introduction</a>
                     <a href="#skills" className='block px-4 py-2 hover:bg-gray-700'>Skills</a>

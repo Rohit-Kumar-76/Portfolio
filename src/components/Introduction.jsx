@@ -32,6 +32,7 @@ const Introduction = () => {
                 <p className=' mx-auto md:mx-0 lg:w-2/3 w-full text-justify lg:text-xl text-md text-gray-700 pb-4'> {greeting} I’m Rohit Kumar from Mokama, currently pursuing a B.Tech in Computer Science at Sandip University, Madhubani. I completed my 10th and 12th grades with the Bihar Board, Patna. Recently, I did an internship in web development, focusing on frontend technologies, which improved my skills in creating user-friendly interfaces and engaging web experiences.
 
                     My skills include HTML, CSS, JavaScript, React, Tailwind CSS, PHP, and Bootstrap. I've worked on several projects, including a Placement Management System that efficiently manages student placements, a React Portfolio showcasing my skills and projects, and a Todo List app with features like adding, deleting, and editing tasks using Bootstrap for styling and routing for navigation.
+                    My skills include HTML, CSS, JavaScript, Tailwind CSS, PHP. I've worked on several projects, including a Placement Management System that efficiently manages student placements, a  Portfolio showcasing my skills and projects, and a Todo List Web app  using Bootstrap for styling .
 
                     Apart from coding, I enjoy dancing, playing volleyball, and taking walks in nature, which often inspire me. These activities help me stay creative and energetic.
 
